@@ -1,1 +1,1 @@
-## Chat built in React and Firebase
+# Chat built in React and Firebase
